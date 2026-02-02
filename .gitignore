@@ -1,0 +1,8 @@
+notebooks/data
+notebooks/cifar_net.pth
+.ipynb_checkpoints/
+.pytest_cache/
+.vscode/
+.claude/
+prompt_archive/
+aidocs/
